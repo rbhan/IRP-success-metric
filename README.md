@@ -1,5 +1,8 @@
 # IRP success metric
 
+## Goals
+Train models on historic student data to predict terminal GPA (gpa), retention in program (ret), time to degree (ttd), for current ChBE undergraduates (esp. freshmen/sophomores) given their coursework and grades.
+
 ## Raw data (confidential, access restricted to Georgia Tech ChBE undergraduate advisers and members of the project)
 * https://github.gatech.edu/rbhan/IRP_success_metric/blob/master/data/Student_Courses.csv
 * https://github.gatech.edu/rbhan/IRP_success_metric/blob/master/data/Student_Demographics.csv
